@@ -1,0 +1,20 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About"
+  },
+  "page": {
+    "home": {
+      "title": "My Nextjs / Typescript / Sanity.io project",
+      "description": "I'm a multi-disciplinary designer with a focus on Digital/interactive Design, identities, and a dabbler of ttrpg maps. I love diving into the world of colors, shapes, and typography to bring ideas to life, capturing their attention and leaving a lasting impression."
+    },
+    "about": {
+      "title": "About Me",
+      "introduction": "This page is still under construction",
+      "description": "This is the about page"
+    }
+  },
+  "footer": {
+    "title": "Need to get in touch?"
+  }
+}
